@@ -1,0 +1,11 @@
+1) npm init -y
+
+2) create an index.js file
+
+3) install json server ( npm i json-server@0.17.4 )
+
+4) create a file db.json
+
+5) create json server in index.js
+
+6) 
